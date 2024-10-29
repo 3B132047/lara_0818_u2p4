@@ -1,3 +1,6 @@
+@extends('layouts.master')
+@section('title','Clean Blog-Home')
+@section('content')
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -102,3 +105,4 @@
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
+@endsection
